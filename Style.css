@@ -1,0 +1,17 @@
+#busqueda {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 8px;
+    background: #f0f0f0;
+    margin-bottom: 5px;
+    border-radius: 4px;
+}
